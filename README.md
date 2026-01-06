@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Diego+Rafael+Mosso+Nava;Computer+Systems+Engineer;Frontend+Developer;Mobile+Developer;%40ahmadpiracha">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Diego+Rafael+Mosso+Nava;Computer+Systems+Engineer;Full-Stack+Web+Developer;Mobile+Developer;%40diego_rafael325">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 👨‍💻 Explore my projects at [.netlify.app](https://.netlify.app)
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 💬 Ask me about **React, PHP, Next.js, Node.js**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
+- 📫 Reach me at **diegomossonava248@gmail.com**
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 📄 Learn more about my experiences at [.netlify.app](https://.netlify.app)
 
 
 
