@@ -2,6 +2,25 @@
 <p align='center'>
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Waseem+Piracha;Software+Engineer;Frontend+Developer;Mobile+Developer;%40ahmadpiracha">
+</p>
+	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+
+- 💬 Ask me about **React,React Native, Next.js, Node.js**
+
+- 📫 Reach me at **ahmadpiracha3@gmail.com**
+
+- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+
+
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
