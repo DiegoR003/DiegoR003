@@ -26,13 +26,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [.netlify.app](https://.netlify.app)
+- 👨‍💻 Explore my projects at https://mi-portafolio-diegor.vercel.app/
 
 - 💬 Ask me about **React, PHP, Next.js, Node.js**
 
 - 📫 Reach me at **diegomossonava248@gmail.com**
 
-- 📄 Learn more about my experiences at [.netlify.app](https://.netlify.app)
+- 📄 Learn more about my experiences at https://mi-portafolio-diegor.vercel.app/
 
 ---
 
