@@ -77,8 +77,8 @@
 ### GitHub stats
 
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=DiegoR003&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoR003&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=DiegoR003&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoR003&layout=compact&count_private=true&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
