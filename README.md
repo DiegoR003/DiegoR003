@@ -74,19 +74,6 @@
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=DiegoR003&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoR003&layout=compact&count_private=true&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoR003&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DiegoR003/DiegoR003/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
